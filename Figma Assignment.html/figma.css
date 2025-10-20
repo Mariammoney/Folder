@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    padding-top: 32px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+button{
+    background-color: purple;
+    color: black;
+    border-radius: 30%;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
